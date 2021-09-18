@@ -1,7 +1,5 @@
 ### Oiii! Meu nome é Patrícia Berzin, mas pode me chamar de Pati
 
-- 👩‍💻 Estudante de Desenvolvimento Front-end
-- ✈️ Participando da Imersão Dev Alura
 <div>
   <a href="https://github.com/patiberzin">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=patiberzin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
