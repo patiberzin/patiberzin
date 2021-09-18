@@ -1,4 +1,4 @@
-### Oiii! Meu nome é Patrícia Berzin, mas pode me chamar de Pati 😊
+### Oiii! Meu nome é Patrícia Berzin, mas pode me chamar de Pati
 
 - 👩‍💻 Estudante de Desenvolvimento Front-end
 - ✈️ Participando da Imersão Dev Alura
@@ -11,7 +11,7 @@
   <img align="center" alt="Pati-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Pati-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Pati-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="https://share-cdn.picrew.me/shareImg/org/202109/1263036_VgQ6H1qA.png">
+  <img width="200em" height="200em" align="right" alt="Pati-Picrew" src="https://share-cdn.picrew.me/shareImg/org/202109/1263036_VgQ6H1qA.png">
 </div>
   
   ##
