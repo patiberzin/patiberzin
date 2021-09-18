@@ -11,7 +11,7 @@
   <img align="center" alt="Pati-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Pati-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Pati-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Pati-Picrew" src="Picrewの「推しごと女子メーカー」でつくったよ！ https://picrew.me/share?cd=gA0073aSuR #Picrew #推しごと女子メーカー">
+  <img align="right" alt="https://share-cdn.picrew.me/shareImg/org/202109/1263036_VgQ6H1qA.png">
 </div>
   
   ##
@@ -21,6 +21,5 @@
   <a href = "mailto:pberzincand@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/patriciaberzincandelaria" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
   
 </div>
