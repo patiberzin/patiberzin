@@ -1,4 +1,4 @@
-### Oiii! Meu nome é Patrícia Berzin, mas pode me chamar de Pati
+### Oiii! Meu nome é Patrícia Berzin
 
 <div>
   <a href="https://github.com/patiberzin">
