@@ -9,7 +9,7 @@
   <img align="center" alt="Pati-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Pati-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Pati-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img width="150em" height="150em" align="right" alt="Pati-Picrew" src="https://share-cdn.picrew.me/shareImg/org/202109/227881_iPUd47yl.png">
+  <img width="150em" height="150em" align="right" alt="Pati-Picrew" src="https://share-cdn.picrew.me/shareImg/org/202109/648_sjZYpVpm.png">
 </div>
   
   ##
