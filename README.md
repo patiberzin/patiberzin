@@ -2,7 +2,6 @@
 
 <div>
   <a href="https://github.com/patiberzin">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=patiberzin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img style="float-right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patiberzin&layout=compact&langs_count=7&theme=dracula"/>
     
 </div>
