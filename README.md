@@ -1,4 +1,4 @@
-### Olá! Meu nome é Patrícia Berzin Candelária
+### Olá! Meu nome é Patrícia Berzin
 
 <div>
   <a href="https://github.com/patiberzin">
