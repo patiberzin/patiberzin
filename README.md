@@ -9,7 +9,6 @@
   <img align="center" alt="Pati-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Pati-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Pati-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <a href="https://www.instagram.com/colinhafrontandux/" target:"_blank"><img height="140em" width="140em" align="right" alt="Gif-Pati-Colinha" src="https://i.picasion.com/pic92/87dadb7828788644cee5ec4933c5d412.gif"/></a>
 </div>
   
   ##
